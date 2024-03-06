@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Title>Yealink</Title>
+    <Menu Name="Директор">
+        <Unit Name="Звягинцев А.В." Phone1="1000" Phone2="2" Phone3="" default_photo="Resource:"/>
+    </Menu>
+    <Menu Name="Заместители">
+        <Unit Name="Приемная" Phone1="101" Phone2="3" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Романова/Соловей" Phone1="102" Phone2="4" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Полякова Н.М." Phone1="103" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Шкута Е.А." Phone1="104" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Барчо Р.Р." Phone1="106" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Погожев Д.В." Phone1="107" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
+    <Menu Name="Начальник отдела">
+        <Unit Name="Храмцова/Видинеева" Phone1="202" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Куликова/Павелко" Phone1="203" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Шильников С.В." Phone1="204" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Щепетильникова С.А." Phone1="205" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Загреба Н.В." Phone1="206" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Петрова Т.А." Phone1="207" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Куценко М.Н." Phone1="209" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Забугина-Супрун Е.А." Phone1="210" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
+    <Menu Name="Сотрудники">
+        <Unit Name="Дударь/Чепкова" Phone1="301" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Мельник/Кирьянова" Phone1="302" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Шипулина Н.А." Phone1="303" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Гостищева/Рыжкова" Phone1="304" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Евдошенко О.А." Phone1="305" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Несина Т.Н." Phone1="306" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Овчинникова Е.Н." Phone1="307" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Базилевская Е.В." Phone1="308" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Щербакова/Кириченко" Phone1="309" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Головкина/Рудь" Phone1="310" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Кравцов В.А." Phone1="311" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Железнёв" Phone1="312" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Забара Е.А." Phone1="313" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Ленская" Phone1="314" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Гафарова А.А." Phone1="315" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Зотова/Садкова" Phone1="317" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Конончук Е.И." Phone1="318" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Скончибасова А.Е." Phone1="319" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Шаблицкая/Саралашвили" Phone1="320" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Мирошникова/Смирнов" Phone1="321" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Шумская" Phone1="322" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Васильева А.Г." Phone1="323" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Домашенко Е.А." Phone1="324" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Голышев/Федоревский" Phone1="325" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Нудьга/Пшеничный" Phone1="326" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Зарщикова Е.А." Phone1="327" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Водители" Phone1="328" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="Сизоненко Е.Н." Phone1="329" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
+    <Menu Name="Отделы образования">
+        <Unit Name="ЗВО-01" Phone1="400" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="ЗВО-02" Phone1="401" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="КВО-01" Phone1="402" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="КВО-02" Phone1="403" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="ПВО-01" Phone1="404" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="ПВО-02" Phone1="405" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="ЦВО-01" Phone1="406" Phone2="" Phone3="" default_photo="Resource:"/>
+        <Unit Name="ЦВО-02" Phone1="407" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
+</YealinkIPPhoneBook>
